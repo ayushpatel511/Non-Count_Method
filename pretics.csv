@@ -1,0 +1,103 @@
+Order_ID,Date,Customer,City,Category,Product,Quantity,Price,Payment_Mode,Rating,Discount
+ORD0001,21-01-2026,Vikas,Lucknow,Clothing,Jeans,4,1599,Debit Card,5,20
+ORD0002,01-06-2026,Priya,Delhi,Grocery,Basmati Rice,3,999,Net Banking,4,15
+ORD0003,21-01-2026,Amit,Kanpur,Electronics,Keyboard,4,1299,Credit Card,1,20
+ORD0004,19-06-2026,Kavita,Jaipur,Grocery,Cooking Oil,1,899,Debit Card,4,5
+ORD0005,20-02-2026,Vikas,Ayodhya,Grocery,Cooking Oil,4,899,UPI,1,10
+ORD0006,09-01-2026,Rahul,Kanpur,Clothing,Jeans,2,1599,Cash,5,20
+ORD0007,24-06-2026,Priya,Delhi,Grocery,Dry Fruits,4,799,UPI,4,0
+ORD0008,14-05-2026,Sneha,Kanpur,Electronics,Smartwatch,2,4999,Net Banking,,10
+ORD0009,14-01-2026,Kavita,Jaipur,Home,Mixer Grinder,2,3499,Cash,4,10
+ORD0010,22-02-2026,Nikhil,Varanasi,Clothing,Hoodie,5,1899,Net Banking,3,5
+ORD0011,29-03-2026,Amit,Kanpur,Grocery,Dry Fruits,5,799,Debit Card,5,0
+ORD0012,03-05-2026,Rohit,Lucknow,Home,Water Bottle,1,599,Credit Card,5,15
+ORD0013,11-06-2026,Amit,Patna,Clothing,Shirt,4,1199,Net Banking,4,15
+ORD0014,11-04-2026,Manish,Delhi,Electronics,Headphones,4,2499,Debit Card,5,10
+ORD0015,13-04-2026,Karan,Jaipur,Electronics,Wireless Mouse,5,699,Credit Card,5,10
+ORD0016,21-02-2026,Neha,Delhi,Clothing,Sneakers,4,2999,Net Banking,1,0
+ORD0017,13-01-2026,Vikas,Prayagraj,Clothing,Jeans,5,1599,Debit Card,3,10
+ORD0018,14-05-2026,Simran,Kanpur,Electronics,Keyboard,2,1299,Cash,4,15
+ORD0019,09-05-2026,Meena,Ayodhya,Grocery,Basmati Rice,2,999,UPI,4,0
+ORD0020,20-02-2026,Sneha,Kanpur,Electronics,Headphones,3,2499,Debit Card,3,10
+ORD0021,21-02-2026,Simran,Delhi,Clothing,Shirt,4,1199,Credit Card,5,5
+ORD0022,23-04-2026,Rahul,Lucknow,Electronics,Headphones,1,2499,Cash,5,0
+ORD0023,22-02-2026,Simran,Lucknow,Electronics,Power Bank,1,1799,Cash,5,10
+ORD0024,10-03-2026,Meena,Lucknow,Grocery,Basmati Rice,3,999,Debit Card,5,5
+ORD0025,03-04-2026,Priya,,Home,Table Lamp,1,1299,Cash,4,5
+ORD0026,28-05-2026,Vikas,Kanpur,Electronics,Smartwatch,3,4999,UPI,5,15
+ORD0027,27-06-2026,Sneha,Prayagraj,Electronics,Wireless Mouse,2,699,Cash,5,15
+ORD0028,23-04-2026,Rahul,Varanasi,Home,Table Lamp,2,1299,Cash,4,20
+ORD0029,09-04-2026,Deepak,Patna,Electronics,Power Bank,5,1799,Debit Card,3,15
+ORD0030,13-06-2026,Anjali,Patna,Home,Wall Clock,1,799,Cash,2,10
+ORD0031,08-05-2026,Riya,Lucknow,Electronics,Headphones,1,2499,Credit Card,1,10
+ORD0032,02-02-2026,Riya,Ayodhya,Electronics,Headphones,5,2499,Cash,5,5
+ORD0033,25-04-2026,Riya,Delhi,Clothing,Hoodie,3,1899,Net Banking,4,10
+ORD0034,07-04-2026,Manish,Patna,Home,Water Bottle,3,599,UPI,4,10
+ORD0035,04-02-2026,Saurabh,Patna,Electronics,Power Bank,4,1799,UPI,3,15
+ORD0036,06-01-2026,Priya,Kanpur,Grocery,Cooking Oil,4,899,UPI,3,10
+ORD0037,09-04-2026,Amit,Kanpur,Electronics,Power Bank,5,1799,Net Banking,5,10
+ORD0038,23-02-2026,Priya,Patna,Electronics,Wireless Mouse,3,699,Credit Card,4,5
+ORD0039,17-01-2026,Pooja,Varanasi,Grocery,Dry Fruits,2,799,UPI,3,5
+ORD0040,19-02-2026,Nikhil,Kanpur,Grocery,Basmati Rice,5,999,Credit Card,4,5
+ORD0041,08-01-2026,Riya,Patna,Clothing,Jeans,1,1599,Cash,3,10
+ORD0042,27-03-2026,Deepak,Varanasi,Home,Water Bottle,4,599,Credit Card,4,10
+ORD0043,11-04-2026,Amit,Patna,Home,Bedsheet,4,999,Net Banking,4,0
+ORD0044,19-04-2026,Meena,Delhi,Grocery,Cooking Oil,4,899,Debit Card,2,10
+ORD0045,16-04-2026,Deepak,Varanasi,Clothing,Hoodie,4,1899,Debit Card,5,0
+ORD0046,17-05-2026,Simran,Ayodhya,Electronics,Power Bank,2,1799,UPI,5,20
+ORD0047,30-03-2026,Pooja,Ayodhya,Electronics,Wireless Mouse,2,699,Net Banking,2,5
+ORD0048,22-01-2026,Priya,Kanpur,Electronics,Wireless Mouse,5,699,Credit Card,4,15
+ORD0049,10-03-2026,Manish,Varanasi,Home,Table Lamp,3,1299,Cash,1,15
+ORD0050,26-03-2026,Vikas,Kanpur,Electronics,Power Bank,4,1799,UPI,5,0
+ORD0051,03-02-2026,Meena,Jaipur,Electronics,Power Bank,2,1799,Credit Card,4,10
+ORD0052,04-01-2026,Kavita,Patna,Home,Water Bottle,2,599,Credit Card,4,
+ORD0053,01-06-2026,Simran,Lucknow,Home,Bedsheet,4,999,Debit Card,5,10
+ORD0054,12-01-2026,Priya,Varanasi,Electronics,Wireless Mouse,1,699,UPI,5,15
+ORD0055,12-01-2026,Riya,Lucknow,Clothing,Hoodie,2,1899,Net Banking,3,5
+ORD0056,08-01-2026,Sneha,Lucknow,Home,Water Bottle,2,599,Credit Card,2,10
+ORD0057,24-04-2026,Nikhil,Prayagraj,Home,Water Bottle,1,599,Net Banking,5,10
+ORD0058,18-05-2026,Rohit,Varanasi,Electronics,Smartwatch,1,4999,Debit Card,3,15
+ORD0059,06-04-2026,Rohit,Kanpur,Home,Bedsheet,3,999,UPI,4,10
+ORD0060,23-04-2026,Meena,Patna,Grocery,Tea,1,499,UPI,4,5
+ORD0061,27-05-2026,Simran,Varanasi,Grocery,Tea,3,499,Cash,2,0
+ORD0062,27-04-2026,Rohit,Prayagraj,Grocery,Biscuits,4,199,Cash,4,10
+ORD0063,24-05-2026,Vikas,Ayodhya,Home,Wall Clock,3,799,Net Banking,5,5
+ORD0064,13-05-2026,Priya,Jaipur,Clothing,Sneakers,2,2999,Net Banking,4,0
+ORD0065,15-03-2026,Simran,Varanasi,Grocery,Basmati Rice,3,999,Net Banking,3,0
+ORD0066,27-01-2026,Rahul,Ayodhya,Clothing,T-Shirt,5,799,Net Banking,4,5
+ORD0067,27-03-2026,Meena,Varanasi,Electronics,Power Bank,3,1799,UPI,5,10
+ORD0068,19-01-2026,Simran,Delhi,Grocery,Tea,4,499,Debit Card,5,5
+ORD0069,22-06-2026,Nikhil,Lucknow,Clothing,Sneakers,2,2999,Cash,4,5
+ORD0070,16-06-2026,Amit,Prayagraj,Home,Wall Clock,4,799,Net Banking,5,15
+ORD0071,14-05-2026,Simran,Ayodhya,Home,Bedsheet,1,999,Net Banking,3,15
+ORD0072,13-06-2026,Priya,Prayagraj,Grocery,Dry Fruits,5,799,Cash,5,0
+ORD0073,01-01-2026,Priya,Patna,Home,Mixer Grinder,1,3499,UPI,3,5
+ORD0074,12-04-2026,Simran,Patna,Grocery,Basmati Rice,4,999,Cash,2,20
+ORD0075,01-03-2026,Isha,Kanpur,Clothing,Hoodie,2,1899,Cash,4,5
+ORD0076,25-05-2026,Karan,Varanasi,Electronics,,1,1799,Net Banking,4,5
+ORD0077,15-02-2026,Priya,Ayodhya,Home,Wall Clock,5,799,Credit Card,3,10
+ORD0078,25-02-2026,Isha,Prayagraj,Home,Water Bottle,5,599,Net Banking,4,10
+ORD0079,26-06-2026,Arjun,Ayodhya,Electronics,Power Bank,1,1799,Credit Card,4,15
+ORD0080,09-05-2026,Kavita,Jaipur,Home,Bedsheet,5,999,Cash,1,0
+ORD0081,30-06-2026,Rohit,Ayodhya,Home,Bedsheet,5,999,Net Banking,5,20
+ORD0082,20-04-2026,Amit,Prayagraj,Clothing,Sneakers,2,2999,Net Banking,3,5
+ORD0083,01-02-2026,Rahul,Kanpur,Grocery,Tea,4,499,Credit Card,5,5
+ORD0084,23-02-2026,Simran,Ayodhya,Electronics,Keyboard,3,1299,Debit Card,5,10
+ORD0085,28-06-2026,Vikas,Delhi,Home,Bedsheet,5,999,Cash,5,10
+ORD0086,01-04-2026,Deepak,Jaipur,Electronics,Keyboard,2,1299,Credit Card,4,10
+ORD0087,30-01-2026,Sneha,Prayagraj,Home,Wall Clock,1,799,UPI,5,10
+ORD0088,15-03-2026,Saurabh,Kanpur,Electronics,Power Bank,5,1799,Cash,5,0
+ORD0089,06-05-2026,Arjun,Prayagraj,Electronics,Power Bank,2,1799,Debit Card,4,10
+ORD0090,28-04-2026,Kavita,Patna,Home,Water Bottle,1,599,Cash,4,10
+ORD0091,04-06-2026,Isha,Ayodhya,Clothing,Hoodie,4,1899,Credit Card,5,5
+ORD0092,19-06-2026,Anjali,Varanasi,Home,Water Bottle,3,599,Net Banking,4,15
+ORD0093,19-03-2026,Nikhil,Prayagraj,Clothing,Shirt,4,1199,UPI,4,5
+ORD0094,17-04-2026,Kavita,Ayodhya,Grocery,Dry Fruits,1,799,UPI,4,10
+ORD0095,29-06-2026,Manish,Jaipur,Electronics,Smartwatch,1,4999,Credit Card,4,0
+ORD0096,25-02-2026,Deepak,Jaipur,Grocery,Biscuits,2,199,Debit Card,1,15
+ORD0097,07-02-2026,Priya,Prayagraj,Grocery,Dry Fruits,3,799,UPI,2,10
+ORD0098,27-03-2026,Simran,Varanasi,Electronics,Power Bank,4,1799,UPI,4,0
+ORD0099,19-04-2026,Isha,Jaipur,Grocery,Tea,4,499,Cash,4,10
+ORD0100,24-03-2026,Sneha,Varanasi,Grocery,Dry Fruits,2,799,Net Banking,4,10
+ORD0013,11-06-2026,Amit,Patna,Clothing,Shirt,4,1199,Net Banking,4,15
+ORD0068,19-01-2026,Simran,Delhi,Grocery,Tea,4,499,Debit Card,5,5
